@@ -1,0 +1,282 @@
+.title{
+    background-image: url('../images/Banner\ Image.png');
+    background-size: 100% 100%;
+    text-align: center;
+    color: white;
+    background-position: center;
+    width: 632px;
+    height: 246px;
+    justify-content: center;
+    padding-top: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-bottom: 100px;
+padding-left: 200px;
+padding-right: 200px;
+
+   
+
+}
+.first{
+    font-size: 32px;
+}
+.second{
+    font-size: 88px ;
+}
+.main{
+    justify-content: center;
+    text-align: center;
+    padding: 100px;
+}
+.category{
+    font-size: 48px ;
+}
+.second2{
+    font-size: 88px;
+    font-weight: bold;
+    color: #FF0000;
+}
+
+   
+    
+
+.title3{
+  font-size: 64px;  
+  width: 642px;
+  height: 50px;
+  padding: 20px;
+  margin: 20px;
+  padding-top: 100px;
+ 
+}
+.parargraph3{
+    font-size: 18px;
+    height: 0px;
+    width: 697px;
+    padding: 100px ;
+   margin-left: 70px;
+   position:150px 180px ;
+}
+.btn{
+ font-weight: bold; 
+ font-size: 20px;  
+ padding: 20px;
+ margin: 20px;
+
+ 
+}
+.box{
+    background-image: url('../images/Vectorrr.png');
+    background-repeat: no-repeat;
+  
+    width: 1320px;
+    height: 600px;
+    background-size: 100%;
+   background-position: center;
+   justify-content: center;
+   display: flex;
+   margin-left: auto;
+   margin-right: auto;
+  
+background-size: cover;
+}
+
+.join{
+    color: white;
+  
+}
+.party-info{
+ 
+margin-left: auto;
+margin-right: auto;
+   padding-top: 60px;
+   margin-top: 20px;
+    font-size: 32px;
+    font-weight: 600px;
+    width: 449px;
+    height: 149px;
+    text-align: center;
+    paddy:525px
+}
+.name{
+    color: #FF0000;
+}
+.about{
+    background-color: antiquewhite;
+    background-attachment: fixed;
+    background-position: center;
+    margin-top: 60px;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-size: cover;
+    text-align: center;
+    width: 1320px;
+    height: 600px;
+
+
+}
+.year{
+    display: flex;
+    padding-top: 150px;
+    justify-content: center;
+    padding-left: 140px;
+    padding-right: 140px;
+    background-color:white;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1060px;
+    height: 463px;
+    gap: 30px;
+}
+.offer{
+    width: 393px;
+    height: 221px;
+}
+.dolor{
+    width: 276px;
+    height: 170px;
+}
+.reguler{
+    font-size: 20px;
+    color: #070211;
+}
+.font2{
+   font-size: 48px; 
+   font-weight: bolder;
+   
+}
+.font1{
+    font-size: 24px;
+    color: #FF0000;
+  
+}
+.font3, .holiday{
+    color: #FF0000;
+}
+.sale{
+    text-align: center;
+    justify-content: center;
+    width: 1068px;
+    height: 260px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 200px;
+}
+.holiday{
+    color: #070211;
+}
+.paragraph{
+    font-size: 20px;
+    width: 1068px;
+    height: 96px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.discount{
+    margin-top: 200px;
+    justify-content: center;
+   display: flex;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    padding-top: 0;
+    width: 1320px;
+    height: 230px;
+    margin-top: 0;
+  }
+  .center1{
+    width: 680px;
+    height: 563px;
+   margin-bottom: 0;
+   padding-bottom: 0;
+   
+  }
+  .top-right{
+    width: 305px;
+    height: 305px;
+  }
+  .position{
+    position: absolute;
+    opacity: 0;
+  }
+  .paragraph1{
+    font-size: 20px;
+    text-align: center;
+  }
+  .portfolio{
+    padding-top: 200px;
+  }
+  .collection{
+    width: 1320px;
+    height: 1165px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+.contact{
+
+margin-top: 500px;
+background-color: antiquewhite;
+width: 1320px;
+height: 620px;
+margin-left: auto;
+margin-right: auto;
+}
+.align{
+    text-align: center;
+    margin-top: 100px;
+}
+.newsletter{
+    justify-content: center;
+    text-align: center;
+    margin: 50px;
+    width: 150;
+    height: 150;
+}
+.paragraph2{
+    font-size: 28px;
+    width: 475px;
+    height: 50px;
+}
+.link{
+    font-size: 24px;
+    
+}
+.address{
+    display: flex;
+}
+.end{
+    background-color: #070211;
+    color: white;
+    width: 1320px;
+    height: 610px;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.foot{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.address{
+    margin-top: 50px;
+}
+.icon{
+    margin: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    gap: 50px;
+   flex-direction: column;
+}
+.work{
+    text-align: center;
+}
