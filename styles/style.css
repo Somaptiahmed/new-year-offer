@@ -4,8 +4,8 @@
     text-align: center;
     color: white;
     background-position: center;
-    width: 632px;
-    height: 246px;
+    width: 900px;
+    height: 346px;
     justify-content: center;
     padding-top: 200px;
     margin-left: auto;
@@ -164,6 +164,20 @@ margin-right: auto;
     margin-left: auto;
     margin-right: auto;
     padding-top: 200px;
+    
+}
+.button{
+ background-color: #FF0000;
+ color: aliceblue;
+ background-size: cover;
+ padding: 20px;
+ border-radius: 5px;
+ 
+ border: none;
+ font-size: 20px;
+ width: 20px;
+
+ 
 }
 .holiday{
     color: #070211;
@@ -180,6 +194,12 @@ margin-right: auto;
     margin-top: 200px;
     justify-content: center;
    display: flex;
+   gap: 200px;
+   background-image: url('../images/Rectangle\ 2.png');
+ background-repeat: no-repeat;
+ 
+
+background-position: bottom;
 }
 .center {
     display: block;
@@ -198,7 +218,7 @@ margin-right: auto;
    padding-bottom: 0;
    
   }
-  .top-right{
+  .top{
     width: 305px;
     height: 305px;
   }
@@ -239,6 +259,25 @@ margin-right: auto;
     width: 150;
     height: 150;
 }
+.letter{
+    font-size: 34px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    width: 1200px;
+    height: 40px;
+    
+    
+
+}
+.holiday1{
+background-color: #FF0000;
+background-size: 100%;
+border-radius: 5px;
+
+
+}
 .paragraph2{
     font-size: 28px;
     width: 475px;
@@ -250,33 +289,91 @@ margin-right: auto;
 }
 .address{
     display: flex;
-}
-.end{
     background-color: #070211;
-    color: white;
     width: 1320px;
-    height: 610px;
-    margin-top: 100px;
-    margin-left: auto;
-    margin-right: auto;
-}
-.foot{
+    padding-top: 100px;
+    text-align: center;
+    justify-content: space-around;
     display: flex;
+}
+
+
+
+
+.address{
+  
     margin-left: auto;
     margin-right: auto;
 
 }
-.address{
-    margin-top: 50px;
-}
 .icon{
-    margin: 150px;
+   background-color: #070211;
+   padding-top: 100px;
+   margin-left: auto;
+   margin-right: auto;
+   width: 1320px;
+   justify-content: center;
+   
+}
+.media{
+  justify-content: center;
+  
+  padding-bottom: 100px;
+  padding-top: 0px;
+  background-color: #070211;
+  width: 1600px;
+  margin-left: auto;
+  margin-right: auto;
+  justify-content: center;
+
+
+}
+.social{
+    margin-left: 700px;
+}
+.foot{
+    background-color: #070211;
+    color: antiquewhite;
+    padding-top: 0px;
+    width: 1600px;
+    
+    margin: auto;
+    justify-content: space-around;
+    display: flex;
+    font-size: 28px;
+
+}
+.end{
+    font-size: 28px;
+    display: flex;
+    background-color: #070211;
+    color: aliceblue;
+    justify-content: space-around;
+    width: 1600px;
     margin-left: auto;
     margin-right: auto;
-    justify-content: center;
-    gap: 50px;
-   flex-direction: column;
+    margin-bottom: 0px;
+    padding: 0px;
+    padding-top: 100px;
+  margin-top: 200px;
+
+  padding-bottom: 0px;
+  height: 220px;
+   
+
 }
-.work{
-    text-align: center;
+.happy{
+   padding-top: 100px;
+   background-color: #070211;
+   width: 1600px;
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 200px;
+}
+.final{
+    background-color: #070211;
+   
+    width: 1600px;
+    margin-left: auto;
+    margin-right: auto;
 }
